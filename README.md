@@ -33,8 +33,11 @@
 -> "utils" folder gathers all necessary source codes.
 
 ## Features:
+
 |_ Trained "Online_Retail_model" determines customer purchase behavior based on "InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country" these terms which is basically an ensembled "Random forest classifier".
+
 |_ Plain chatbot provides information based on user message which is just an SQL query based on CustomerID.
+
 |_ Automated chatbot provides information based on user message and recommendations natural language processing oriented.
 
 # N.T.B: Removed model for large size, LFS dependency 
