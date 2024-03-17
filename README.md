@@ -27,9 +27,13 @@
 * python utils/automated_chatbot.py
 
 ## Utilities:
+
 -> "data" folder gathers dataset and converted database in sqlite format.
+
 -> "models" folder gathers retail model trained on "Online_Retail_Data_Set.csv" dataset.
+
 -> "outputs" folder gathers figures of data analytics of the "Online_Retail_Data_Set.csv" dataset.  
+
 -> "utils" folder gathers all necessary source codes.
 
 ## Features:
